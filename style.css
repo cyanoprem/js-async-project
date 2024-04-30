@@ -1,0 +1,14 @@
+#nav {
+  text-align: center;
+}
+
+#main {
+  text-align: center;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+#getPostBtn{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
